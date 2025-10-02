@@ -22,7 +22,7 @@ const AboutSec = () => {
         className="container"
       >
         {/* Title */}
-        <Title subtitle="About" title="I am Damien" link="Know More" />
+        <Title subtitle="About" title="I am Aji" link="Know More" />
         {/* Divider */}
         <Divider />
         {/* Wrapper */}
@@ -30,7 +30,7 @@ const AboutSec = () => {
           {/* Banner */}
           <motion.figure variants={fadeInUp}>
             <Image
-              src="/images/about-section-banner.png"
+              src="/images/fotogw.jpg"
               alt="about banner"
               width={783}
               height={710}
@@ -79,17 +79,17 @@ const AboutSec = () => {
                 <div>
                   <p>Email</p>
                   <a
-                    href="mailto:damienbraun@gmail.com"
+                    href="mailto:alhafidzw1@gmail.com"
                     className="hover:underline"
                   >
-                    damienbraun@gmail.com
+                    alhafidzw1@gmail.com
                   </a>
                 </div>
                 {/* Phone num */}
                 <div>
                   <p>Phone Number</p>
-                  <a href="tel:+00 000000000" className="hover:underline">
-                    +00 000000000
+                  <a href="tel:+6281359719288" className="hover:underline">
+                    +6281359719288
                   </a>
                 </div>
               </div>

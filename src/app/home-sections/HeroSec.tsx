@@ -29,7 +29,7 @@ const HeroSec = () => {
               variants={fadeInUp}
               className="text-[40px] sm:text-5xl md;text-6xl font-semibold"
             >
-              Damien Braun
+              Ang Hae Jhie
             </motion.h1>
           </div>
 
@@ -54,7 +54,7 @@ const HeroSec = () => {
         {/* Banner */}
         <motion.figure variants={fadeInUp} className="container">
           <Image
-            src="/images/hero-banner.png"
+            src="/images/aniccavisual.png"
             alt="hero banner"
             width={1280}
             height={424}

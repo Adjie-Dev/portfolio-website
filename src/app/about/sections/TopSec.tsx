@@ -25,7 +25,7 @@ const TopSec = () => {
         className="container"
       >
         {/* Title */}
-        <Title subtitle="About" title="About damien braun" />
+        <Title subtitle="About" title="About Aji" />
 
         {/* Count up card wrapper */}
         <div className="py-20" ref={ref}>
@@ -55,7 +55,7 @@ const TopSec = () => {
         {/* Banner */}
         <motion.figure variants={fadeIn}>
           <Image
-            src="/images/about-page-banner.png"
+            src="/images/Scrooldowntoseemyjourney.png"
             alt="About page banner"
             width={1279}
             height={560}
